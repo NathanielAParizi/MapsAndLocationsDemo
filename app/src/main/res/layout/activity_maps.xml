@@ -103,6 +103,12 @@
         android:text="Search By Address or place"
         android:onClick="onClick"/>
 
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/changeMapTypes"
+        android:text="Change Map Type"
+        android:onClick="onClick"/>
 
 </LinearLayout>
 
